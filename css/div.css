@@ -1,0 +1,24 @@
+.bloco
+{
+    position: relative;
+    float: left;
+    width: 250px;
+    height: 250px;
+
+    margin-left: 3%;
+}
+
+.borda-5px
+{
+    border-radius: 5%;
+}
+
+#bloco1
+{
+    background-color: brown;
+}
+
+#bloco2
+{
+background-color: aliceblue;
+}
