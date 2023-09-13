@@ -11,3 +11,9 @@ body
 
     background-color: grey;
 }
+
+#jett
+{
+    width: calc(100% - 50px);
+    margin: 25px;
+}
